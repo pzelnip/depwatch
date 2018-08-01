@@ -1,0 +1,13 @@
+awscli==1.15.31
+bitstring==3.1.5
+boto3==1.7.31
+django-log-request-id==1.3.2
+Django==1.11.13
+newrelic==2.106.1.88 ## note that there is a 3.x line available now
+psycopg2==2.7.4
+pyDes==2.0.1
+requests==2.19.1
+
+#TODO: this really should be in dev dependenccies, but that'd require a
+# refactor of the safety step in the Jenkinsfile
+safety==1.8.3
