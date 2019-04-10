@@ -4,5 +4,5 @@ Django==1.11.20 # pyup: >=1.8,<2.0
 newrelic==2.106.1.88 # pyup: >=2.0.0.0,<3.0.0.0
 psycopg2==2.8.1
 requests==2.21.0
-pytz==2018.9
+pytz==2019.1
 safety==1.8.5
