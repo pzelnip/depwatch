@@ -1,4 +1,4 @@
-coverage==4.5.3
+coverage==4.5.4
 freezegun==0.3.12
 pylint-django==2.0.11
 pylint==2.3.1
