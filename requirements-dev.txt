@@ -1,10 +1,10 @@
-coverage==4.5.4
-freezegun==0.3.12
-pylint-django==2.0.11
-pylint==2.4.3
+coverage==5.0.3
+freezegun==0.3.14
+pylint-django==2.0.13
+pylint==2.4.4
 pytest-asyncio==0.10.0
 pytest-cov==2.8.1
-pytest-django==3.6.0
+pytest-django==3.8.0
 pytest-random-order==1.0.4
-pytest==5.2.2
-unittest-xml-reporting==2.5.1
+pytest==5.3.5
+unittest-xml-reporting==2.5.2
