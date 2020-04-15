@@ -1,6 +1,6 @@
 coverage==5.1
 freezegun==0.3.15
-pylint-django==2.0.14
+pylint-django==2.0.15
 pylint==2.4.4
 pytest-asyncio==0.10.0
 pytest-cov==2.8.1
