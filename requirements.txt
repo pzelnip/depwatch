@@ -1,7 +1,7 @@
 bitstring==3.1.7
 django-log-request-id==1.5.0
 django-oidc-provider==0.7.0
-Django==1.11.29 # pyup: >=1.8,<2.0
+Django==2.2.12 # pyup: >=1.8,<2.0
 Flask==1.1.2
 newrelic==2.106.1.88 # pyup: >=2.0.0.0,<3.0.0.0
 psycopg2==2.8.5
