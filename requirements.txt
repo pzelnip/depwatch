@@ -10,6 +10,6 @@ halo==0.0.29
 Jinja2==2.11.2
 psycopg2==2.8.5
 pytz==2020.1
-requests==2.23.0
+requests==2.24.0
 safety==1.9.0
 typer==0.3.1
