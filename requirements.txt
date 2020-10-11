@@ -10,6 +10,7 @@ Django==2.2.16 # pyup: >=2.0,<3.0
 django-oidc-provider==0.7.0
 django-flags==5.0.1
 emoji==0.6.0
+fastapi==0.61.1
 Flask==1.1.2
 freezegun==1.0.0
 GitPython==3.1.9
