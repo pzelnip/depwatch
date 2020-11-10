@@ -14,7 +14,7 @@ fastapi==0.61.2
 Flask==1.1.2
 freezegun==1.0.0
 GitPython==3.1.11
-halo==0.0.30
+halo==0.0.31
 Jinja2==2.11.2
 psycopg2==2.8.6
 pylint-django==2.3.0
