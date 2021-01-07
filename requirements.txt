@@ -2,7 +2,7 @@ black==20.8b1
 bokeh==2.2.3
 bullet==2.2.0
 coverage==5.3.1
-django-axes==5.10.1
+django-axes==5.11.1
 django-log-request-id==1.6.0
 django-oidc-provider==0.7.0
 django-log-request-id==1.6.0
@@ -13,11 +13,11 @@ emoji==0.6.0
 fastapi==0.63.0
 Flask==1.1.2
 freezegun==1.0.0
-GitPython==3.1.11
+GitPython==3.1.12
 halo==0.0.31
 Jinja2==2.11.2
 psycopg2==2.8.6
-pylint-django==2.3.0
+pylint-django==2.4.0
 pylint==2.6.0
 pytest-asyncio==0.14.0
 pytest-cov==2.10.1
