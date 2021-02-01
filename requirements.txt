@@ -16,7 +16,7 @@ Flask==1.1.2
 freezegun==1.1.0
 GitPython==3.1.12
 halo==0.0.31
-Jinja2==2.11.2
+Jinja2==2.11.3
 psycopg2==2.8.6
 pylint-django==2.4.2
 pylint==2.6.0
