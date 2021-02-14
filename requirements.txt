@@ -30,4 +30,5 @@ pytz==2021.1
 requests==2.25.1
 safety==1.10.3
 secure==0.2.1
+tabulate==0.8.7
 typer==0.3.2
