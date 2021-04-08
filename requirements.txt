@@ -7,7 +7,7 @@ django-log-request-id==1.6.0
 django-ninja==0.12.2
 django-oidc-provider==0.7.0
 django-log-request-id==1.6.0
-Django==2.2.19 # pyup: >=2.0,<3.0
+Django==2.2.20 # pyup: >=2.0,<3.0
 django-oidc-provider==0.7.0
 django-flags==5.0.2
 emoji==1.2.0
