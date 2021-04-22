@@ -21,7 +21,7 @@ plotly==4.14.3
 psycopg2==2.8.6
 pylint-django==2.4.3
 pylint==2.7.4
-pytest-asyncio==0.15.0
+pytest-asyncio==0.15.1
 pytest-cov==2.11.1
 pytest-django==4.2.0
 pytest-random-order==1.0.4
