@@ -11,7 +11,7 @@ Django==3.2.2
 django-oidc-provider==0.7.0
 django-flags==5.0.2
 emoji==1.2.0
-fastapi==0.64.0
+fastapi==0.65.0
 Flask==1.1.2
 freezegun==1.1.0
 GitPython==3.1.15
