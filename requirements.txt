@@ -1,4 +1,4 @@
-black==21.5b1
+black==21.5b2
 bokeh==2.3.2
 bullet==2.2.0
 coverage==5.5
