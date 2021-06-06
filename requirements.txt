@@ -4,7 +4,7 @@ bullet==2.2.0
 coverage==5.5
 django-axes==5.17.0
 django-log-request-id==1.6.0
-django-ninja==0.12.2
+django-ninja==0.13.2
 django-oidc-provider==0.7.0
 django-log-request-id==1.6.0
 Django==3.2.4
