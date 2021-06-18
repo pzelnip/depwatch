@@ -14,7 +14,7 @@ emoji==1.2.0
 fastapi==0.65.2
 Flask==2.0.1
 freezegun==1.1.0
-GitPython==3.1.17
+GitPython==3.1.18
 halo==0.0.31
 Jinja2==3.0.1
 plotly==4.14.3
