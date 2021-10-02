@@ -30,7 +30,7 @@ pytest-django==4.4.0
 pytest-random-order==1.0.4
 pytest-socket==0.4.1
 pytest==6.2.5
-pytz==2021.1
+pytz==2021.3
 requests==2.26.0
 safety==1.10.3
 secure==0.3.0
