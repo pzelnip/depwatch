@@ -12,12 +12,12 @@ django-oidc-provider==0.7.0
 django-flags==5.0.2
 emoji==1.5.0
 fastapi==0.68.1
-Flask==2.0.1
+Flask==2.0.2
 flake8==3.9.2
 freezegun==1.1.0
 GitPython==3.1.24
 halo==0.0.31
-Jinja2==3.0.1
+Jinja2==3.0.2
 mypy==0.910
 pip-tools==6.3.0
 plotly==5.3.1
