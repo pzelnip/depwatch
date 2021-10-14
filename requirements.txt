@@ -1,5 +1,5 @@
 black==21.9b0
-bokeh==2.4.0
+bokeh==2.4.1
 bullet==2.2.0
 # coverage==5.5
 django-axes==5.26.0
@@ -19,7 +19,7 @@ GitPython==3.1.24
 halo==0.0.31
 Jinja2==3.0.2
 mypy==0.910
-pip-tools==6.3.1
+pip-tools==6.4.0
 plotly==5.3.1
 psycopg2==2.9.1
 pylint-django==2.4.4
