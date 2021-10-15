@@ -1,7 +1,7 @@
 black==21.9b0
 bokeh==2.4.1
 bullet==2.2.0
-# coverage==5.5
+coverage==6.0.2
 django-axes==5.26.0
 django-log-request-id==1.7.0
 django-ninja==0.15.0
