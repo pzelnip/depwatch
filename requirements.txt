@@ -1,12 +1,12 @@
-black==21.9b0
+black==21.10b0
 bokeh==2.4.1
 bullet==2.2.0
-coverage==6.1
+coverage==6.1.1
 django-axes==5.26.0
 django-log-request-id==1.7.0
 django-ninja==0.15.0
 django-oidc-provider==0.7.0
-Django==3.2.8
+Django==3.2.9
 django-oidc-provider==0.7.0
 django-flags==5.0.2
 emoji==1.6.1
