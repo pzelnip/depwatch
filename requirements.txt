@@ -3,7 +3,7 @@ bokeh==2.4.2
 bullet==2.2.0
 coverage==6.2
 django-axes==5.28.0
-django-log-request-id==1.7.0
+django-log-request-id==2.0.0
 django-ninja==0.15.0
 django-oidc-provider==0.7.0
 Django==4.0
