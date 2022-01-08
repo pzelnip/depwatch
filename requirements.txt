@@ -10,14 +10,14 @@ Django==4.0.1
 django-oidc-provider==0.7.0
 django-flags==5.0.2
 emoji==1.6.1
-fastapi==0.70.1
+fastapi==0.71.0
 Flask==2.0.2
 flake8==4.0.1
 freezegun==1.1.0
 GitPython==3.1.25
 halo==0.0.31
 Jinja2==3.0.3
-mypy==0.930
+mypy==0.931
 pip-tools==6.4.0
 plotly==5.5.0
 psycopg2==2.9.3
