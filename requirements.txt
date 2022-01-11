@@ -14,7 +14,7 @@ fastapi==0.71.0
 Flask==2.0.2
 flake8==4.0.1
 freezegun==1.1.0
-GitPython==3.1.25
+GitPython==3.1.26
 halo==0.0.31
 Jinja2==3.0.3
 mypy==0.931
