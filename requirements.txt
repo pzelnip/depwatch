@@ -8,13 +8,13 @@ django-ninja==0.15.0
 django-oidc-provider==0.7.0
 Django==4.0.1
 django-oidc-provider==0.7.0
-django-flags==5.0.2
+django-flags==5.0.6
 emoji==1.6.1
 fastapi==0.71.0
 Flask==2.0.2
 flake8==4.0.1
 freezegun==1.1.0
-GitPython==3.1.25
+GitPython==3.1.26
 halo==0.0.31
 Jinja2==3.0.3
 mypy==0.931
