@@ -10,7 +10,7 @@ Django==4.0.1
 django-oidc-provider==0.7.0
 django-flags==5.0.6
 emoji==1.6.3
-fastapi==0.71.0
+fastapi==0.72.0
 Flask==2.0.2
 flake8==4.0.1
 freezegun==1.1.0
@@ -23,7 +23,7 @@ plotly==5.5.0
 psycopg2==2.9.3
 pylint-django==2.5.0
 pylint==2.12.2
-pytest-asyncio==0.17.0
+pytest-asyncio==0.17.2
 pytest-cov==3.0.0
 pytest-django==4.5.2
 pytest-random-order==1.0.4
