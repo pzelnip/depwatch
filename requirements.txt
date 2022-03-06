@@ -10,7 +10,7 @@ Django==4.0.3
 django-oidc-provider==0.7.0
 django-flags==5.0.8
 emoji==1.6.3
-fastapi==0.74.1
+fastapi==0.75.0
 Flask==2.0.3
 flake8==4.0.1
 freezegun==1.2.0
