@@ -17,7 +17,7 @@ freezegun==1.2.0
 GitPython==3.1.27
 halo==0.0.31
 Jinja2==3.0.3
-mypy==0.931
+mypy==0.940
 pip-tools==6.5.1
 plotly==5.6.0
 psycopg2==2.9.3
